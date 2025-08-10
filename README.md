@@ -4,7 +4,7 @@ For example project Google Drive API
 ---------- SET UP PROJECT ----------
 create your project folder
 npm init (can use default values or provide your own)
-npm install express dotenv multer googleapis
+npm install express dotenv multer googleapis google-auth-library
 
 .env file you have create with yourself. In this file will contains:
 # GOOGLE API configuration
